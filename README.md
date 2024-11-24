@@ -54,7 +54,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="40"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/9062b5aa-8b6c-487f-a93b-bdae82e0beb" height="40" alt="vite logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" height="40" alt="vs logo"  />
 </div>
 
 ###
