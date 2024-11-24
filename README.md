@@ -54,7 +54,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="40"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://github.com/user-attachments/assets/9062b5aa-8b6c-487f-a93b-bdae82e0beb" height="40" alt="vite logo"  />
 </div>
 
 ###
