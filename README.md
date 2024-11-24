@@ -58,3 +58,5 @@
 </div>
 
 ###
+<h3 align="left">🔧 Скиллы:</h3>
+<p align="left"> HTML, CSS (LESS/SASS), JavaScript, React, Vue, Redux. </p>
