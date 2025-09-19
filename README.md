@@ -3,7 +3,6 @@
 <div align="center">
   <img height="300" width="420" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
 </div>
-###
 
 <h1 align="center">Привет, меня зовут Николай! 👋</h1>
 
