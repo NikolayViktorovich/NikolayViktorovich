@@ -64,7 +64,8 @@
 
 ###
 <h3 align="left">🔧 Скиллы:</h3>
-<p align="left"> HTML, CSS (LESS/SASS), JavaScript, React, Vue, Redux. </p>
+<p align="left"> HTML, CSS (LESS/SASS), JavaScript, React, Vue, Redux, Next.js. </p>
+<p align="left">Базово изучаю на данный момент C# </p>
 
 ###
 
