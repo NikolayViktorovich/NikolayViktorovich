@@ -58,7 +58,9 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" height="40" alt="vs logo"  />
   <img width="14" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" height="40"  />
+  <img src="https://iconape.com/wp-content/png_logo_vector/cib-next-js.png" height="40"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="40"  />
   <img width="12" />
 </div>
 
