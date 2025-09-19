@@ -58,7 +58,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" height="40" alt="vs logo"  />
   <img width="14" />
-  <img src="https://assets.streamlinehq.com/image/private/w_240,h_240,ar_1/f_auto/v1/icons/development/next.js-4jgorlt5yc2okojqvlpt7.png/next.js-w76wb14xjaofqmirzwub.png?_a=DATAg1AAZAA0](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000)" height="40"  />
+  <img src="https://img.icons8.com/nolan/512/nextjs.png" height="40"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="40"  />
   <img width="12" />
