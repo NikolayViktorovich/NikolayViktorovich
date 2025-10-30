@@ -56,7 +56,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" height="40" alt="vs logo"  />
   <img width="14" />
-  <img src="https://img.icons8.com/nolan/512/nextjs.png" height="50"  />
+  <img src="https://i.postimg.cc/h4yv7CtJ/next-js-icon-seeklogo.png" height="50"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="40"  />
   <img width="12" />
