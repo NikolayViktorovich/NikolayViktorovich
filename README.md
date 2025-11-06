@@ -1,7 +1,5 @@
-![Banner]
-
 # ✨ Обо мне
-Я **Николай**, Middle Frontend разработчик с 3+ года опыта создания современных, интерактивных и производительных веб-приложений. Специализируюсь на разработке адаптивных и кроссбраузерных интерфейсов. Моя страсть - создавать удобные и эстетичные решения, улучшающие пользовательский опыт.
+Я **Николай**, Middle Frontend разработчик с 3+ годами опыта создания современных, интерактивных и производительных веб-приложений. Специализируюсь на разработке адаптивных и кроссбраузерных интерфейсов. Моя страсть - создавать удобные и эстетичные решения, улучшающие пользовательский опыт.
 
 # 🚀 Что я делаю
 
@@ -20,14 +18,21 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 # 🔧 Навыки
 * **Frontend**: HTML, CSS (LESS/SASS), JavaScript (ES6+), TypeScript
 * **Фреймворки**: React, Vue, Next.js
 * **State Management**: Redux
-* **Инструменты**: Visual Studio Code, PyCharm
-* **Изучаю**: C#, Python
+* **Backend**: Node.js, Express.js
+* **Базы данных**: MongoDB, PostgreSQL
+* **Инструменты**: Visual Studio Code
+* **Работа с API**: REST API, GraphQL, Axios
+* **Изучаю**: C#
 
 ---
 
