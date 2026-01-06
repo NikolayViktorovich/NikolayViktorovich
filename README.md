@@ -20,8 +20,6 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -30,11 +28,10 @@
 * **Frontend**: HTML, CSS (LESS/SASS), JavaScript (ES6+), TypeScript
 * **Фреймворки**: React, Vue, Next.js
 * **State Management**: Redux
-* **Backend**: Node.js, Express.js
 * **Базы данных**: MongoDB, PostgreSQL
-* **Инструменты**: Visual Studio Code
+* **Инструменты**: Visual Studio Code, WebStorm
 * **Работа с API**: REST API, GraphQL, Axios
-* **Изучаю**: C#
+* **Изучаю на данный момент базово C#**
 
 ---
 
