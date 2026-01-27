@@ -1,16 +1,86 @@
-## Hi there 👋
+![Banner](Banner3.2.jpg)
 
-<!--
-**NikolayViktorovich/NikolayViktorovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> <h3>Middle Frontend Developer | 4+ года опыта</h3> <a href="https://t.me/shouldcleanmyroom"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="32" /></a> <a href="https://vk.com/youshouldcleanmyroom"><img src="https://cdn.simpleicons.org/vk/ffffff" width="32" /></a> </div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>О себе</h2>
+
+- Создаю производительные, адаптивные и кроссбраузерные веб-приложения с фокусом на **UX/UI** и **чистый код**.
+- Специализируюсь на разработке современных интерфейсов, которые сочетают эстетику, удобство и высокую производительность.
+- Имею опыт работы с backend технологиями, могу создавать не сложные fullstack решения.
+- Победитель хакатона Сбера (кейс «Динамический планировщик образовательной траектории» для УрФУ).
+- Основатель и разработчик проекта - [ghostproduceredm.com](https://ghostproduceredm.com/)
+
+---
+
+<h2>
+  <img src="https://cdn.simpleicons.org/stackblitz/ffffff" width="18" style="vertical-align: middle; margin-bottom: 3px;" /> 
+  Технологический стек
+</h2>
+
+<div align="center">
+
+### Frontend Core
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+
+### Управление состоянием и данными
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff)
+
+### Стилизация & UI
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=fff)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+
+</div>
+
+---
+
+<h2>
+  <img src="https://cdn.simpleicons.org/starship/ffffff" width="18" style="vertical-align: middle; margin-bottom: 3px;" /> 
+  Ключевые компетенции
+</h2>
+
+<h3>Архитектура</h3>
+
+- SPA & SSR приложения (React, Vue, Next.js)
+- Микрофронтенды и модульная архитектура
+- Design Systems и компонентные библиотеки
+
+<h3>Разработка</h3>
+
+- Адаптивная и семантическая вёрстка
+- Типизация с TypeScript
+- Интеграция REST API и GraphQL
+- Работа с WebSocket и real-time данными
+- Backend разработка (Node.js, PostgreSQL)
+- Создание и интеграция собственных API
+
+<h3>Командная работа</h3>
+
+- code review
+- Agile/Scrum методологии
+- Менторинг junior разработчиков
+
+---
+
+<h2>
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="18" style="vertical-align: middle; margin-bottom: 3px;" /> 
+  GitHub Статистика
+</h2>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayViktorovich&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&hide_title=false)
+
+</div>
