@@ -8,7 +8,6 @@
 
 - Создаю производительные, адаптивные и кроссбраузерные веб-приложения с фокусом на **UX/UI** и **чистый код**.
 - Специализируюсь на разработке современных интерфейсов, которые сочетают эстетику, удобство и высокую производительность.
-- Имею опыт работы с backend технологиями, могу создавать не сложные fullstack решения.
 - Победитель хакатона Сбера (кейс «Динамический планировщик образовательной траектории» для УрФУ).
 - Основатель и разработчик проекта - [ghostproduceredm.com](https://ghostproduceredm.com/)
 
@@ -39,10 +38,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=fff)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-
 </div>
 
 ---
@@ -64,7 +59,6 @@
 - Типизация с TypeScript
 - Интеграция REST API и GraphQL
 - Работа с WebSocket и real-time данными
-- Backend разработка (Node.js, PostgreSQL)
 - Создание и интеграция собственных API
 
 <h3>Командная работа</h3>
