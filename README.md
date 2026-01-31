@@ -1,7 +1,5 @@
 ![Banner](Banner3.3.jpg)
 
-<div align="center"> <h3>Middle Frontend Developer | 4+ года опыта</h3> <a href="https://t.me/shouldcleanmyroom"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="32" /></a> <a href="https://vk.com/youshouldcleanmyroom"><img src="https://cdn.simpleicons.org/vk/ffffff" width="32" /></a> </div>
-
 ---
 
 <h2>О себе</h2>
