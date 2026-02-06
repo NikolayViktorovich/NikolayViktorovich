@@ -71,9 +71,3 @@
   <img src="https://cdn.simpleicons.org/github/ffffff" width="18" style="vertical-align: middle; margin-bottom: 3px;" /> 
   GitHub Статистика
 </h2>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayViktorovich&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&hide_title=false)
-
-</div>
