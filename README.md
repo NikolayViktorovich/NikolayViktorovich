@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <strong>Николай Викторович</strong><br/>
   <em>Frontend Developer · React / Next.js</em>
 </p>
 
